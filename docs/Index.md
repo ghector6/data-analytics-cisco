@@ -13,3 +13,6 @@
 - [[1.1.3 Everyday Data Usage]]
 - [[1.1.4 Exercise]]
 - [[1.1.5 Importance of Visualization]]
+- [[1.1.6 Ways to Visualize Data]]
+- [[1.1.7 Exercise]]
+- [[1.1.8 Exercise]]
