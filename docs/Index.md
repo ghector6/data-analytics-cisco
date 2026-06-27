@@ -16,3 +16,14 @@
 - [[1.1.6 Ways to Visualize Data]]
 - [[1.1.7 Exercise]]
 - [[1.1.8 Exercise]]
+
+### 1.2 Data Surround Us
+- [[1.2.1 Discrete and Continuos Data]]
+- [[1.2.2 Exercise]]
+- [[1.2.3 Data Types]]
+- [[1.2.4 Exercise]]
+- [[1.2.5 Data Variety]]
+- [[1.2.6 Structured and Unstructured Data]]
+- [[1.2.7 Exercise]]
+- [[1.2.8 Choosing the relevant data]]
+- 
