@@ -26,4 +26,8 @@
 - [[1.2.6 Structured and Unstructured Data]]
 - [[1.2.7 Exercise]]
 - [[1.2.8 Choosing the relevant data]]
+
+## 1.3 Understanding The Business
+
+- [[1.3.1 Data Analysis for Business Ideas]]
 - 
