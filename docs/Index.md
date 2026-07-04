@@ -30,4 +30,20 @@
 ## 1.3 Understanding The Business
 
 - [[1.3.1 Data Analysis for Business Ideas]]
-- 
+- [[1.3.3 Data Analytics From Humanitarian Perspecttive]]
+- [[1.3.4 Social Examples]]
+- [[1.3.5 Social Examples]]
+- [[1.3.6 Exercise]]
+- [[1.3.7 Exercise]]
+- [[1.3.8 Dynamic Graphs]]
+
+## 2.0 Introduction
+
+- [[2.0.1 Understanding Big Data and Its Management]]
+
+## 2.1 Understanding Massive Data
+
+- [[2.1.1 Definition of Massive Data]]
+- [[2.1.2 Characterisics of Massive Data]]
+- [[2.1.3 Exercise]]
+- [[2.1.4 Factors Driving the Growth of Massive Data and Key Application Sectors]]
