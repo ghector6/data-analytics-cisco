@@ -47,3 +47,6 @@
 - [[2.1.2 Characterisics of Massive Data]]
 - [[2.1.3 Exercise]]
 - [[2.1.4 Factors Driving the Growth of Massive Data and Key Application Sectors]]
+## 2.2
+- [[2.2.1 Data Pipelines and ETL]]
+- 
